@@ -1,2 +1,5 @@
 git init
-git
+git dari link nya
+git add
+git commit
+git push
